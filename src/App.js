@@ -1,6 +1,14 @@
+import Homepage from "./pages/HomePage";
+import ProjectList from "./pages/ProjectList";
+import "./css/styles.css"
+
+
 function App() {
   return (
-    <h1>Welcome to My Portfolio Page!</h1>
+    <>
+      <Homepage />
+      <ProjectList />
+    </>
   );
 }
 
