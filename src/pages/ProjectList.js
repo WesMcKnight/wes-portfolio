@@ -2,6 +2,7 @@ import jsonScreenshot from "./../images/jsonServer.png"
 import reactCert from "./../images/reactCert.png"
 import bootstrapCert from "./../images/bootstrapCert.png"
 import htmlCert from "./../images/htmlCssJsCert.png"
+import reactNativeCert from './../images/reactNativeCert.png'
 
 const ProjectList = () => {
     return (
@@ -24,6 +25,7 @@ const ProjectList = () => {
             <img alt="screenshot" src={reactCert} /> <hr/>
             <img alt="screenshot" src={bootstrapCert} /> <hr/>
             <img alt="screenshot" src={htmlCert} />
+            <img alt="screenshot" src={reactNativeCert} />
             </div>
         </>
     )
