@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/wes-portfolio/static/css/main.a7dd608c.css",
-    "main.js": "/wes-portfolio/static/js/main.def354a2.js",
+    "main.js": "/wes-portfolio/static/js/main.ed9dbb4f.js",
+    "static/media/reactNativeCert.png": "/wes-portfolio/static/media/reactNativeCert.b58d5893cb22ac85e824.png",
     "static/media/htmlCssJsCert.png": "/wes-portfolio/static/media/htmlCssJsCert.a820796f5973d6b4efb2.png",
     "static/media/reactCert.png": "/wes-portfolio/static/media/reactCert.045fc13339c3b7fe2abd.png",
     "static/media/bootstrapCert.png": "/wes-portfolio/static/media/bootstrapCert.49fb49ec0bfdbe8c7905.png",
     "static/media/jsonServer.png": "/wes-portfolio/static/media/jsonServer.506d4f364c7575b58a7c.png",
     "index.html": "/wes-portfolio/index.html",
     "main.a7dd608c.css.map": "/wes-portfolio/static/css/main.a7dd608c.css.map",
-    "main.def354a2.js.map": "/wes-portfolio/static/js/main.def354a2.js.map"
+    "main.ed9dbb4f.js.map": "/wes-portfolio/static/js/main.ed9dbb4f.js.map"
   },
   "entrypoints": [
     "static/css/main.a7dd608c.css",
-    "static/js/main.def354a2.js"
+    "static/js/main.ed9dbb4f.js"
   ]
 }
