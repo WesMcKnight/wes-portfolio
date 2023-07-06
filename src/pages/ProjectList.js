@@ -24,7 +24,7 @@ const ProjectList = () => {
             <div>
             <img alt="screenshot" src={reactCert} /> <hr/>
             <img alt="screenshot" src={bootstrapCert} /> <hr/>
-            <img alt="screenshot" src={htmlCert} />
+            <img alt="screenshot" src={htmlCert} /> <hr/>
             <img alt="screenshot" src={reactNativeCert} />
             </div>
         </>
